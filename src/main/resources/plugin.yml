@@ -1,0 +1,13 @@
+name: Homes
+version: ${project.version}
+main: me.secretagent.homes.Homes
+api-version: 1.17
+commands:
+  sethome:
+    aliases: shome
+  warphome:
+    aliases: whome
+  allowguest:
+    aliases: aguest
+  visit:
+    aliases: vt
